@@ -24,9 +24,9 @@ module.exports = {
   networks: {
     rinkeby: {
       //AlchemyのAPI_KEY
-      url: "https://eth-rinkeby.alchemyapi.io/v2/v_jRubQc_-HlfjxrWz1SJXHMiLSPjre_",
+      url: "XXX",
       //WalletのPRIVATE_KEYと
-      accounts: ["0e7006933b629709a31d4695f9fd1560bb10c052dee2de654b5c5b90cf6b97a0"],
+      accounts: ["XXX"],
     },
   },
 };
